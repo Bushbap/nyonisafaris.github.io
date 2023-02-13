@@ -1,5 +1,5 @@
 .navbar {
-  background-color: #6D9B5B;
+  background-color: white;
 color: black;
 position: relative;
 padding-bottom: 12px;
@@ -7,4 +7,8 @@ padding-bottom: 12px;
 
 .dropdown-toggle::after {
   display: none;
+}
+
+.navbar .dropdown:hover .dropdown-menu {
+  display: block;
 }
