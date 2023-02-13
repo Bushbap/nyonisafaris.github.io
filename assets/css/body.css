@@ -1,0 +1,10 @@
+.navbar {
+  background-color: #292420;
+color: white;
+position: relative;
+padding-bottom: 12px;
+}
+
+.dropdown-toggle::after {
+  display: none;
+}
