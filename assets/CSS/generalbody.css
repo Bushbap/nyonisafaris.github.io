@@ -1,0 +1,217 @@
+body {
+  margin: 15px;
+  background-color: #f7f3e4;
+}
+
+p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+}
+
+h2 {
+  font-family: 'Dosis', sans-serif;
+
+}
+
+h3 {
+  font-family: 'Dosis', sans-serif;
+}
+
+h4 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 30px;
+}
+
+h5 {
+  font-family: 'Dosis', sans-serif;
+  font-weight: 600;
+}
+
+.navbar-style {
+  border-top: solid 1px;
+  border-left: solid 1px;
+  border-right: solid 1px;
+  background-color: white;
+}
+
+.image-home {
+  border: solid 1px;
+}
+
+.entire-body {
+  border: solid 1px;
+}
+
+.prices-body {
+  padding-bottom: 100px;
+}
+
+.price-bg {
+  background-color: white;
+  border: solid 1px;
+  padding-bottom: 40px;
+  padding-top: 17px;
+  height: 460px;
+  width: auto;
+  margin-top: 20px;
+}
+
+.price-price {
+  font-size: 2rem;
+}
+
+.price-title {
+  margin: 20px 0 20px 0;
+  font-size: 3.2rem;
+}
+
+.button-contact {
+border-radius: 0;
+padding-left: 40px;
+padding-right: 40px;
+margin: 15px;
+border: solid 1px;
+}
+
+.price-private {
+  border: solid 1px;
+  background-color: white;
+
+
+}
+
+.image-private {
+  border-right: solid 1px;
+
+}
+
+.message-box {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-bottom: 50px;
+  border: solid 1px;
+  background-color: white;
+}
+
+.headpic {
+  border-bottom: solid 1px;
+}
+
+.journey-middle-pic {
+  border-top: solid 1px;
+}
+
+.footer-page {
+  border-top: solid 1px;
+}
+
+
+.form-control-footer {
+    display: block;
+    width: 100%;
+    min-height: calc(1.5em + .75rem + 2px);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.card-footer{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+    padding: 20px;
+    background-color: #f7f3e4;
+    padding-bottom: 50px;
+    padding-top: 50px;
+border: none;
+    height: 250px;
+ 
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+    padding: 20px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    position: relative;
+    background-color: #f7f3e4;
+    border: none;
+ 
+}
+
+.footer-left-box {
+  border-right: solid 1px;
+}
+
+
+.form-control-footer:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #A0A56E ;
+    outline: 1;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+
+.border-rad{
+    color: black;
+    background-color: white;
+    border-color: black;
+    border-radius: 0;
+}
+
+
+
+
+.border-rad:hover{
+   color: white;
+     background-color: black;
+    border-color: black;
+    border-radius: 0;
+
+}
+
+.footer-copyright {
+  border-top: solid 1px;
+  background-color: white;
+height: 56px;
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+
+.footer-copyright-para {
+  margin: 14px;
+}
+
+.about-me {
+  border: solid 1px;
+  background-color: white;
+  margin: 15px;
+}
+
+.about-picture {
+border-bottom: solid 1px;
+}
+
+
+
+
