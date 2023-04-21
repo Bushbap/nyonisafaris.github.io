@@ -135,11 +135,25 @@ border: solid 1px;
   margin-right: 15px;
     padding: 20px;
     background-color: #f7f3e4;
-    padding-bottom: 50px;
-    padding-top: 50px;
 border: none;
     height: 250px;
  
+}
+
+@media only screen and (max-width: 768px) {
+  .card-footer {
+    margin-top: 15px;
+  margin-bottom: 15px;
+  margin-right: 15px;
+    padding: 20px;
+    background-color: #f7f3e4;
+    padding-bottom: 50px;
+    padding-top: 50px;
+border: none;
+    height: 300px;
+    
+    
+  }
 }
 
 @media only screen and (max-width: 600px) {
@@ -160,6 +174,15 @@ border: none;
     
   }
 }
+
+@media only screen and (max-width: 768px) {
+  .footer-left-box {
+    border-right: none ;
+    border-bottom: solid 1px;
+    
+  }
+}
+
 .footer-links {
   display: flex;
   flex-wrap: wrap;
@@ -253,6 +276,8 @@ margin : 10px;
   margin: 30px;
 }
 
-
+.itinerary-title {
+  font-size: 2.8rem;
+}
 
 
