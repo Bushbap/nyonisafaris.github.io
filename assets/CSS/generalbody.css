@@ -97,6 +97,14 @@ border: solid 1px;
   background-color: white;
 }
 
+@media only screen and (max-width : 576px) {
+  .message-box {
+    border-right: none;
+    border-left: none;
+
+  }
+}
+
 .headpic {
   border-bottom: solid 1px;
 }
@@ -121,7 +129,7 @@ border: solid 1px;
     color: #495057;
     background-color: #fff;
     background-clip: padding-box;
-    border: 1px solid #ced4da;
+    border: 1px solid black;
     border-radius: 0;
     -webkit-appearance: none;
     -moz-appearance: none;
