@@ -211,6 +211,27 @@ border-bottom: solid 1px;
   margin: 15px;
   background-color: white;
   border: solid 1px;
+  justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.safari-maps-title {
+  margin-bottom: 30px;
+
+}
+
+.safari-plans {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.safari-plans-title {
+  font-size: 1.74rem;
+}
+
+.safari-maps {
+margin : 10px;
 }
 
 
