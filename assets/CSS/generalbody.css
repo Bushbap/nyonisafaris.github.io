@@ -110,6 +110,7 @@ border: solid 1px;
 }
 
 
+
 .form-control-footer {
     display: block;
     width: 100%;
@@ -141,6 +142,24 @@ border: none;
  
 }
 
+@media only screen and (max-width: 600px) {
+  .footer-links {
+    border-right: none;
+    
+  }
+}
+
+.footer-left-box {
+  border-right: solid 1px; 
+}
+
+@media only screen and (max-width: 576px) {
+  .footer-left-box {
+    border-right: none ;
+    border-bottom: solid 1px;
+    
+  }
+}
 .footer-links {
   display: flex;
   flex-wrap: wrap;
@@ -155,11 +174,6 @@ border: none;
     border: none;
  
 }
-
-.footer-left-box {
-  border-right: solid 1px;
-}
-
 
 .form-control-footer:focus {
     color: #495057;
@@ -214,6 +228,8 @@ border-bottom: solid 1px;
   justify-content: center;
   padding-top: 40px;
   padding-bottom: 40px;
+  margin-bottom: 50px;
+  margin-top: 30px;
 }
 
 .safari-maps-title {
@@ -223,7 +239,6 @@ border-bottom: solid 1px;
 
 .safari-plans {
   list-style-type: none;
-  margin: 10px;
 }
 
 .safari-plans-title {
@@ -232,6 +247,10 @@ border-bottom: solid 1px;
 
 .safari-maps {
 margin : 10px;
+}
+
+.safari-plans-title {
+  margin: 30px;
 }
 
 
