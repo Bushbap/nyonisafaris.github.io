@@ -40,6 +40,8 @@ h5 {
 
 .image-home {
   border: solid 1px;
+  border-radius: 0;
+  margin : 10px;
 }
 
 .entire-body {
@@ -117,7 +119,11 @@ border: solid 1px;
   border-top: solid 1px;
 }
 
-
+.form-control { 
+  border-radius: 0;
+  border: solid 1px;
+  border-color: black;
+}
 
 .form-control-footer {
     display: block;
