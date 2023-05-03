@@ -46,6 +46,19 @@ h5 {
 .nav-link {
   transition: all 0.1s;
 }
+.collapse .nav-link {
+  text-align: start;
+  padding-left: 100px;
+}
+
+.navbar-collapse .nav-link { 
+  text-align: start;
+  padding-left: 100px;
+}
+
+
+
+
 .nav-link:hover {
   z-index: 1;
   border-bottom: solid 1px;
