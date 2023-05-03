@@ -40,11 +40,13 @@ h5 {
 }
 
 .nav-active {
+  padding-bottom: 5px;
   border-bottom: solid 1px black;
-  
 }
+
 .nav-link {
   transition: all 0.1s;
+  padding-bottom: 5px;
 }
 .collapse .nav-link {
   text-align: start;
@@ -111,6 +113,14 @@ padding-right: 40px;
 margin: 15px;
 border: solid 1px;
 }
+
+.button-card {
+  border-radius: 0;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin: 15px;
+  border: solid 1px;
+  }
 
 .price-private {
   border: solid 1px;
