@@ -27,11 +27,11 @@ body {
 }
 .display-5 {
   font-family: 'Dosis', sans-serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
   line-height: 1.5;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.5rem;
+  font-size: 2.25rem;
 }
 .display-7 {
   font-family: 'Dosis', sans-serif;
@@ -68,9 +68,9 @@ body {
     line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-7 {
     font-size: 0.96rem;
@@ -2600,7 +2600,7 @@ a {
   text-align: center;
 }
 .cid-tDiDPw1jEz {
-  padding-top: 9rem;
+  padding-top: 7rem;
   padding-bottom: 10rem;
   background-color: #ffffff;
 }
@@ -2957,6 +2957,9 @@ a {
   padding-top: 10rem;
   padding-bottom: 1rem;
   background-color: #ffffff;
+}
+.cid-tDn3AC1blP .mbr-section-subtitle {
+  text-align: center;
 }
 .cid-tDiwrvlyl0 {
   padding-top: 5rem;
@@ -3382,8 +3385,8 @@ a {
   background-color: #ffffff;
 }
 .cid-tDoGDBgF1L {
-  padding-top: 0rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 7rem;
   background-color: #ffffff;
 }
 .cid-tDiuQRWmR6 {
